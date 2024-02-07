@@ -5,6 +5,8 @@ This folder is organized as follow
    /Computational_time_analysis/ folder presents a study of the computer time performances of the structrual model of Aswing
    /Static_Deflection_analysis/ folder present the comparisons between ASWING and experiments for the tip deflections and twist 
                                 on the 3 composites layouts of interest ([0_3_90]_S], [+15_2_0_2]_S] and [-15_2_0_2]_S])
+   /Vaccum_analysis/ folder contains the vaccum analysis of the 3 different composite layouts and the comparison with experimental data
+                     the results are presented in a csv/excel file.
    /[0_3_90]_S]/ /[+15_2_0_2]_S /[-15_2_0_2]_S folders contains the screenshots of the references documents used to get 
                                                the experimental data of interest of the 3 composites layouts.
                                                Webplotdigitalizer has been used to extract the data. They are saved into the csv file
