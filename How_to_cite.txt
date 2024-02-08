@@ -1,1 +1,29 @@
+If you want to cite this work please do as follow
 
+The work has been separated into four parts:
+
+1 - Aerodynamics
+2 - Propellers
+3 - Structure
+4 - Aeroelasticity
+
+If you have used some materials of one of them or you just want to cite 
+a specific technical report please use the following DOI
+
+1 - Aerodynamics : DOI 10.13140/RG.2.2.30435.73768
+you can file the report file here : https://www.researchgate.net/publication/377724794_Experimental_validation_of_an_aeroelasticity_framework_ASWING_Part_I_Aerodynamics
+
+2 - Propellers : DOI 10.13140/RG.2.2.27080.29440
+you can file the report file here : 
+https://www.researchgate.net/publication/377725378_Experimental_validation_of_an_aeroelasticity_framework_ASWING_Part_II_Propellers
+
+3 - Structure : DOI 10.13140/RG.2.2.20369.40804/1
+you can file the report file here : https://www.researchgate.net/publication/377725277_Experimental_validation_of_an_aeroelasticity_framework_ASWING_Part_III_Structure
+
+4 - Aeroelasticity : DOI 10.13140/RG.2.2.13658.52169
+you can file the report file here : https://www.researchgate.net/publication/377725388_Experimental_validation_of_an_aeroelasticity_framework_ASWING_Part_IV_Aeroelasticity
+
+You can also cite my PhD manuscript where these works have been initially presented 
+PhD manuscript - DOI 10.13140/RG.2.2.20481.63840
+you can find the file here: 
+https://www.researchgate.net/publication/377585759_Energy_harvesting_on_flexible_UAVs_-_PhD_Thesis
